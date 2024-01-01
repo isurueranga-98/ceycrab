@@ -43,14 +43,14 @@ const Hero = () => {
                     <Image src='/https___83563132bdd28a1e0fd2b4d3a1659d88.cdn.bubble.io_f1655446937282x114214896299462020_BG.jpeg' layout='responsive' objectFit=' ' width={1000} height={1000}  alt='hero image' />
                 </div> */}
                 <div className=' flex flex-col  items-center justify-center'>
-                    <div className=' flex flex-col items-center justify-center text-black gap-10 text-center'>
+                    <div className=' flex flex-col items-center justify-center text-black gap-6 text-center'>
                         <p className=' underline'>CRAB CEYLONE</p>
-                        <h1 className=' text-4xl lg:text-5xl font-normal'>A Delicious Adventure</h1>
-                        <p className=' w-[400px] sm:w-[600px] md:w-[700px] lg:w-[800px] lg:text-base xl:w-[900px] xl:text-lg text-sm font-light  '>At Ceylon Crab house we serve you the finest Sri Lankan cuisine with the world renowned hospitality giving you the best dining experience you deserve. Our speciality is Crab, experience a gastronomic feast of crab dishes prepared using the finest Sri Lankan species and recipes.</p>
+                        <h1 className=' text-3xl lg:text-5xl font-normal'>A Delicious Adventure</h1>
+                        <p className=' w-[400px] px-5 sm:w-[600px] md:w-[700px] lg:w-[800px] lg:text-base xl:w-[900px] xl:text-lg text-sm font-light  '>At Ceylon Crab house we serve you the finest Sri Lankan cuisine with the world renowned hospitality giving you the best dining experience you deserve. Our speciality is Crab, experience a gastronomic feast of crab dishes prepared using the finest Sri Lankan species and recipes.</p>
                     </div>
                 </div>
 
-                <div className=' mt-10 flex items-center justify-center gap-10'>
+                <div className=' mt-10 flex items-center justify-center gap-5'>
 
                     <div className=' gap-2 mt-5 flex items-center justify-center flex-row  bg-[#cba135] text-center w-[130px] h-[40px] lg:w-[130px] lg:h-[50px] rounded-xl'>
                         <PiChairFill style={{ color: '#ffffff' }} />

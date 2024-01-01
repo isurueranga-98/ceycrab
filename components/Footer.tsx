@@ -13,7 +13,7 @@ const Footer = () => {
             <div className=' flex flex-col items-center justify-center gap-5'>
                 <Image src='/crab.svg' width={100} height={100} alt='logo'/>
                 <h1 className=' text-4xl'>Ceylon Crab Houses</h1>
-                <p className=' text-sm'>Lot G1 Ground floor Bangsar Shopping Centre, Jalan Maarof, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur,  Malaysia</p>
+                <p className=' text-sm w-[350px]'>Lot G1 Ground floor Bangsar Shopping Centre, Jalan Maarof, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur,  Malaysia</p>
                 <p className=' text-sm'>+94 77 123 4567</p>
                 <p className=' text-sm'> Email : hello@ceyloncrabhouse.com</p>
             </div>

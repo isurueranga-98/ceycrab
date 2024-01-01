@@ -33,7 +33,7 @@ const Images = () => {
     //     </div>
         
     // </div>
-    <div className=' py-10 items-center justify-center flex flex-col'>
+    <div className=' px-1 mx-0 py-10 items-center justify-center flex flex-col'>
 
         <div className=' text-center gap-5 flex flex-col'>
             <h1 className=' text-4xl font-bold underline'>Our Facilities</h1>
@@ -47,16 +47,16 @@ const Images = () => {
                     </div>
                     <div className=' text-start px-2 lg:px-10 justify-center flex-col flex gap-5 text-white'>
                         <h1 className=' text-xl font-bold lg:text-3xl lg:font-semibold'>Tables</h1>
-                        <p className=' text-sm font-light'>A highly personalised experience created to encourage unhindered culinary exploration. Ideal for groups of 12 friends, family or business colleagues this one of a kind experience is tailored to your tastes from concepts to menus, ambiance and beyond.</p>
-                        <p className=' text-sm font-thin'>Offered at an additional cost</p>
+                        <p className=' text-sm font-extralight'>A highly personalised experience created to encourage unhindered culinary exploration. Ideal for groups of 12 friends, family or business colleagues this one of a kind experience is tailored to your tastes from concepts to menus, ambiance and beyond.</p>
+                        
                     </div>
                 </div>
                 <div className=' h-[300px] relative grid grid-cols-2 bg-[#00394d]'>
                     
                     <div className=' text-start px-2 lg:px-10  justify-center flex-col flex gap-5 text-white'>
                         <h1 className=' text-xl font-bold lg:text-3xl lg:font-semibold '>Dining</h1>
-                        <p className=' text-sm font-light'>An intimate way to celebrate special occasions or simply spend some quality or romantic time together. Enjoy dinner in our Bubble on the Beach or a secluded table for two with your own customised menu</p>
-                        <p className=' text-sm font-thin'>Offered at an additional cost</p>
+                        <p className=' text-sm font-extralight'>An intimate way to celebrate special occasions or simply spend some quality or romantic time together. Enjoy dinner in our Bubble on the Beach or a secluded table for two with your own customised menu</p>
+                        
                     </div>
 
                     <div className=' relative'>
@@ -70,8 +70,8 @@ const Images = () => {
                     </div>
                     <div className=' text-start px-2 lg:px-10 justify-center flex-col flex gap-5 text-white'>
                         <h1 className=' text-xl font-bold lg:text-3xl lg:font-semibold'>Outdor</h1>
-                        <p className=' text-sm font-light'>A highly personalised experience created to encourage unhindered culinary exploration. Ideal for groups of 12 friends, family or business colleagues this one of a kind experience is tailored to your tastes from concepts to menus, ambiance and beyond.</p>
-                        <p className=' text-sm font-thin'>Offered at an additional cost</p>
+                        <p className=' text-sm font-extralight'>A highly personalised experience created to encourage unhindered culinary exploration. Ideal for groups of 12 friends, family or business colleagues this one of a kind experience is tailored to your tastes from concepts to menus, ambiance and beyond.</p>
+                        
                     </div>
                 </div>
             </div>
